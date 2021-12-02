@@ -1,4 +1,5 @@
-# Book-Study
-"Pytorch로 시작하는 딥러닝" 북스터디
+# Pytorch-Study
 
-Youtube Link: https://youtu.be/mbeTRf8jQvY
+Youtube Link
+Week1: https://youtu.be/mbeTRf8jQvY
+Week3: https://www.youtube.com/watch?v=Y2_G5g1U0W0
